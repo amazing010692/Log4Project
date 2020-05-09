@@ -6,6 +6,8 @@ public class TestLog4J {
 	
 	public static void main(String[] args) {
 		
+		
+		//sample logs
 		log.debug("This is a Debug Log");
 		log.info("This is an Info Log");
 		log.error("Error in a Project");
