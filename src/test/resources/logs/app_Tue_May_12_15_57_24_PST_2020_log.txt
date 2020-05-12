@@ -1,0 +1,2 @@
+INFO    2020-05-12 15:57:24,760 [main] utilities.TestLogs  - This is the information log
+ERROR   2020-05-12 15:57:24,762 [main] utilities.TestLogs  - Here the error logs will be printed
