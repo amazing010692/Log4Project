@@ -138,13 +138,13 @@ mvn clean install
 
 | Dependency | Version | Purpose |
 |------------|---------|---------|
-| Log4j2 Core | 2.21.1 | Logging framework |
-| Log4j2 API | 2.21.1 | Logging API |
+| Log4j2 Core | 2.25.3 | Logging framework |
+| Log4j2 API | 2.25.3 | Logging API |
 | Apache POI | 5.2.4 | Excel file operations |
 
 ## 🔒 Security Notes
 
-- **Secure Log4j2 2.21.1** - No Log4j 1.x vulnerabilities (CVE-2021-44228, DOS attacks)
+- **Secure Log4j2 2.25.3** - Latest security patches applied
 - **Dependency exclusions** prevent transitive Log4j 1.x dependencies
 - **No hardcoded credentials** or sensitive information
 - **Relative file paths** for portability
